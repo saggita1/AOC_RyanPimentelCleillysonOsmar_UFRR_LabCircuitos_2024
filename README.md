@@ -1,21 +1,21 @@
- [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.
+ [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
- [COMPONENTE 02]. Multiplexador de quatro opções de entrada.
+ [COMPONENTE 02]. Multiplexador de quatro opções de entrada.(pronto)
  
- [COMPONENTE 03]. Porta lógica XOR usando os componentes: AND, NOT, e OR.
+ [COMPONENTE 03]. Porta lógica XOR usando os componentes: AND, NOT, e OR.(pronto)
  
- [COMPONENTE 04]. Somador de 8 bits que recebe um valor inteiro e soma com o valor 4.
+ [COMPONENTE 04]. Somador de 8 bits que recebe um valor inteiro e soma com o valor 4.(pronto)
  
  [COMPONENTE 05]. Memória ROM de 8 bits.
  
  [COMPONENTE 06]. Memória RAM de 8 bits.
  
- [COMPONENTE 07]. Banco de Registradores de 8 bits.
+ [COMPONENTE 07]. Banco de Registradores de 8 bits.(pronto)
  
- [COMPONENTE 08]. Somador de 8 bits.
+ [COMPONENTE 08]. Somador de 8 bits.(pronto)
  
  [COMPONENTE 09]. Construa um detector de sequência binária para identificar a sequência "101" em um
- fluxo de entrada.
+ fluxo de entrada.(pronto)
  
  [COMPONENTE 10]. ULA de 8 bits com as seguintes operações: AND, OR, NOT, NOR, NAND, XOR,
  SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração. 
