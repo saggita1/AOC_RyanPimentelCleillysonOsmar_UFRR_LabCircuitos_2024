@@ -1,4 +1,5 @@
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.
+ 
  [COMPONENTE 02]. Multiplexador de quatro opções de entrada.
  [COMPONENTE 03]. Porta lógica XOR usando os componentes: AND, NOT, e OR.
  [COMPONENTE 04]. Somador de 8 bits que recebe um valor inteiro e soma com o valor 4.
