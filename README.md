@@ -22,7 +22,7 @@
  
 [COMPONENTE 11]. Extensor de sinal de 4 bits para 8 bits. 
 
-[COMPONENTE 12]. Implemente uma maquina de estados utilizando portas lógicas. 
+[COMPONENTE 12]. Implemente uma maquina de estados utilizando portas lógicas.(pronto)
 
 [COMPONENTE 13]. Contador Síncrono.
 
