@@ -24,7 +24,7 @@
 
 [COMPONENTE 12]. Implemente uma maquina de estados utilizando portas lógicas.(pronto)
 
-[COMPONENTE 13]. Contador Síncrono.
+[COMPONENTE 13]. Contador Síncrono.(pronto)
 
  [COMPONENTE 14]. Combine portas AND, OR e NOT para criar a lógica de um detector de paridade ímpar
  (entrada com número ímpar de 1s)
