@@ -1,3 +1,5 @@
+PRONTOS: 9 / FALTANDO: 8
+
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
  [COMPONENTE 02]. Multiplexador de quatro opções de entrada.(pronto)
