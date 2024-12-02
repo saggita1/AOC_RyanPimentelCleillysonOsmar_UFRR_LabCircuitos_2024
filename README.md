@@ -1,4 +1,4 @@
-PRONTOS: 12 / FALTANDO: 5
+PRONTOS: 13 / FALTANDO: 4
 
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
@@ -22,7 +22,7 @@ PRONTOS: 12 / FALTANDO: 5
  [COMPONENTE 10]. ULA de 8 bits com as seguintes operações: AND, OR, NOT, NOR, NAND, XOR,
  SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração. 
  
-[COMPONENTE 11]. Extensor de sinal de 4 bits para 8 bits. 
+[COMPONENTE 11]. Extensor de sinal de 4 bits para 8 bits.(pronto) 
 
 [COMPONENTE 12]. Implemente uma maquina de estados utilizando portas lógicas.(pronto)
 
