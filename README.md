@@ -1,4 +1,4 @@
-PRONTOS: 10 / FALTANDO: 7
+PRONTOS: 11 / FALTANDO: 6
 
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
@@ -38,4 +38,4 @@ PRONTOS: 10 / FALTANDO: 7
  de 4 bits para os sinais necessários para acionar um display de 7 segmentos (formato hexadecimal).(pronto)
  
 [COMPONENTE 17]. Detector de Número Primo: Crie um circuito que detecte se uma entrada binária de 4
- bits representa um número primo. Utilize portas lógicas e mapas de Karnaugh para simplificar o circuito.
+ bits representa um número primo. Utilize portas lógicas e mapas de Karnaugh para simplificar o circuito.(pronto)
