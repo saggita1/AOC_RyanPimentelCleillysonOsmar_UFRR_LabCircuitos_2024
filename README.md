@@ -1,4 +1,4 @@
-PRONTOS: 11 / FALTANDO: 6
+PRONTOS: 12 / FALTANDO: 5
 
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
