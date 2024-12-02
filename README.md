@@ -29,7 +29,7 @@ PRONTOS: 12 / FALTANDO: 5
 [COMPONENTE 13]. Contador Síncrono.(pronto)
 
  [COMPONENTE 14]. Combine portas AND, OR e NOT para criar a lógica de um detector de paridade ímpar
- (entrada com número ímpar de 1s)
+ (entrada com número ímpar de 1s)(pronto)
  
  [COMPONENTE 15]. Resolva um problema de otimização lógica utilizando mapas de Karnaugh e
  implemente o circuito otimizado. 
