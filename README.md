@@ -1,4 +1,4 @@
-PRONTOS: 9 / FALTANDO: 8
+PRONTOS: 10 / FALTANDO: 7
 
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
  
@@ -35,7 +35,7 @@ PRONTOS: 9 / FALTANDO: 8
  implemente o circuito otimizado. 
  
 [COMPONENTE 16]. Decodificador de 7 Segmentos: Projete um circuito que converta um número binário
- de 4 bits para os sinais necessários para acionar um display de 7 segmentos (formato hexadecimal).
+ de 4 bits para os sinais necessários para acionar um display de 7 segmentos (formato hexadecimal).(pronto)
  
 [COMPONENTE 17]. Detector de Número Primo: Crie um circuito que detecte se uma entrada binária de 4
  bits representa um número primo. Utilize portas lógicas e mapas de Karnaugh para simplificar o circuito.
