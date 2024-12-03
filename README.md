@@ -1,8 +1,8 @@
 PRONTOS: 13 / FALTANDO: 4
 
- [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(pronto)
+ [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.()
  
- [COMPONENTE 02]. Multiplexador de quatro opções de entrada.(pronto)
+ [COMPONENTE 02]. Multiplexador de quatro opções de entrada.()
  
  [COMPONENTE 03]. Porta lógica XOR usando os componentes: AND, NOT, e OR.(pronto)
  
