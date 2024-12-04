@@ -1,4 +1,4 @@
-PRONTOS: 13 / FALTANDO: 4
+PRONTOS: 14 / FALTANDO: 3
 
  [COMPONENTE 01]. Registrador Flip-Flop do tipo D e do tipo JK.(PRONTO)
  
@@ -32,7 +32,7 @@ PRONTOS: 13 / FALTANDO: 4
  (entrada com número ímpar de 1s)(pronto)
  
  [COMPONENTE 15]. Resolva um problema de otimização lógica utilizando mapas de Karnaugh e
- implemente o circuito otimizado. 
+ implemente o circuito otimizado. (pronto)
  
 [COMPONENTE 16]. Decodificador de 7 Segmentos: Projete um circuito que converta um número binário
  de 4 bits para os sinais necessários para acionar um display de 7 segmentos (formato hexadecimal).(pronto)
