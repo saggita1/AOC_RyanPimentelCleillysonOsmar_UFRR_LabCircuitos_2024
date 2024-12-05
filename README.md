@@ -20,7 +20,7 @@ PRONTOS: 15 / FALTANDO: 2
  fluxo de entrada.(pronto)
  
  [COMPONENTE 10]. ULA de 8 bits com as seguintes operações: AND, OR, NOT, NOR, NAND, XOR,
- SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração. 
+ SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração.(pronto) 
  
 [COMPONENTE 11]. Extensor de sinal de 4 bits para 8 bits.(pronto) 
 
