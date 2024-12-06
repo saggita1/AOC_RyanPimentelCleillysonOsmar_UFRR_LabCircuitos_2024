@@ -14,3 +14,17 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 
 ## Somador de 8 bits + 4
 ![somadormais4](imgs/somador_mais_4.png)
+
+## Memória ROM de 8 bits.
+## Memória RAM de 8 bits.
+## Banco de Registradores de 8 bits.
+## Somador de 8 bits.
+## detector de sequência binária(101)
+## ULA de 8 bits
+## SHIFT de 2 bits, esquerda e direita
+## Extensor de sinal 4-8
+## Máquina de estados
+## Contador Síncrono
+## Detector de paridade ímpar
+## Otimização Lógica 
+## Decodificador 7-segmentos para hexadecimal
