@@ -1,7 +1,7 @@
 
 # Circuitos
 
-Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se encontra as soluções em formato de relatório técnico.
+Aqui estão as imagens dos 17 circuitos, dentro da pasta "docs" se encontra as soluções em formato de relatório técnico.
 É recomendado que todos os circuitos estejam no mesmo diretório, pois certos componentes foram utilizados em outros, por exemplo o somador de 8bits na ULA de 8 bits.
 
 ## Flip Flop tipo D
