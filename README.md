@@ -38,6 +38,7 @@ Aqui estão as imagens dos 17 circuitos, dentro da pasta "docs" se encontra as s
 ![](imgs/nor.png)
 ![](imgs/nand.png)
 ![](imgs/xor.png)
+![](imgs/subtrator.png)
 ## Extensor de sinal 4-8
 ![extensor](imgs/extensor.png)
 ## Máquina de estados
@@ -50,4 +51,3 @@ Aqui estão as imagens dos 17 circuitos, dentro da pasta "docs" se encontra as s
 ![otimizacao](imgs/otimizacao_logica.png)
 ## Decodificador 7-segmentos para hexadecimal(cada um dos componentes de A-G está presente em hexadecimal_display.circ)
 ![decodificador](imgs/hexa.png)
-![](imgs/)
