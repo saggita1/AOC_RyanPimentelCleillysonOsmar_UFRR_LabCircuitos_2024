@@ -48,6 +48,6 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![detector impar](imgs/paridade_impar.png)
 ## Otimização Lógica 
 ![otimizacao](imgs/otimizacao_logica.png)
-## Decodificador 7-segmentos para hexadecimal
+## Decodificador 7-segmentos para hexadecimal(componentes de A-G estão presentes hexadecimal_display.circ)
 ![decodificador](imgs/hexa.png)
 ![](imgs/)
