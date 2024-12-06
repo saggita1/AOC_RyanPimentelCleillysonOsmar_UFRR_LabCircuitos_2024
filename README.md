@@ -31,7 +31,6 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ## ULA de 8 bits
 ![ula1](imgs/ula_1.png)
 ![ula2](imgs/ula_2.png)
-## SHIFT de 2 bits, esquerda e direita
 ![sll](imgs/shift.png)
 ## Extensor de sinal 4-8
 ![extensor](imgs/extensor.png)
