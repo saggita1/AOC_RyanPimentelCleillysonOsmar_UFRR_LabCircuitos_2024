@@ -11,11 +11,11 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![jk](imgs/flipflop_jk.png)
 
 ## XOR com AND, NOT e OR
-![xor](imgs/xor.png)
+![xor](imgs/xor1.png)
 
 ## Somador de 8 bits + 4
 ![somadormais4](imgs/somador_mais_4.png)
-
+![]()
 ## Memória ROM de 8 bits.
 ![]()
 ## Memória RAM de 8 bits.
@@ -32,6 +32,12 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![ula1](imgs/ula_1.png)
 ![ula2](imgs/ula_2.png)
 ![sll](imgs/shift.png)
+![](imgs/and_8.png)
+![](imgs/or_8.png)
+![](imgs/not.png)
+![](imgs/nor.png)
+![](imgs/nand.png)
+![](imgs/xor.png)
 ## Extensor de sinal 4-8
 ![extensor](imgs/extensor.png)
 ## Máquina de estados
@@ -44,3 +50,4 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![otimizacao](imgs/otimizacao_logica.png)
 ## Decodificador 7-segmentos para hexadecimal
 ![decodificador](imgs/hexa.png)
+![](imgs/)
