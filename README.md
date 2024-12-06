@@ -13,4 +13,4 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![xor](imgs/xor.png)
 
 ## Somador de 8 bits + 4
-![somadormais4](imgs/somador_8bits.png)
+![somadormais4](imgs/somador_mais_4.png)
