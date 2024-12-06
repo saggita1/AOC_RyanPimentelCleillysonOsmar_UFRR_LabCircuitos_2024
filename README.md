@@ -24,7 +24,7 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![registrador](imgs/registrador.png)
 ![banco](imgs/banco_registradores.png)
 ## Somador de 8 bits.
-![](imgs/full adder.png)
+![](imgs/full%20adder.png)
 ![somador](imgs/somador_8bits.png)
 ## detector de sequência binária(101)
 ![binaria](imgs/detector_sequencia_binaria.png)
