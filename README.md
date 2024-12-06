@@ -18,14 +18,24 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 
 ## Memória ROM de 8 bits.
 ## Memória RAM de 8 bits.
+![ram1](imgs/ram1.png)
+![ram2](imgs/ram2.png)
 ## Banco de Registradores de 8 bits.
+![registrador](imgs/registrador.png)
+![banco](imgs/banco_registradores.png)
 ## Somador de 8 bits.
+![somador](imgs/somador_8bits.png)
 ## detector de sequência binária(101)
+![binaria](imgs/detector_sequencia_binaria.png)
 ## ULA de 8 bits
+![ula1](imgs/ula_1.png)
+![ula2](imgs/ula_2.png)
 ## SHIFT de 2 bits, esquerda e direita
+![sll]()
 ## Extensor de sinal 4-8
 ## Máquina de estados
 ## Contador Síncrono
 ## Detector de paridade ímpar
 ## Otimização Lógica 
 ## Decodificador 7-segmentos para hexadecimal
+![]()
