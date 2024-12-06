@@ -17,6 +17,7 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![somadormais4](imgs/somador_mais_4.png)
 
 ## Memória ROM de 8 bits.
+![]()
 ## Memória RAM de 8 bits.
 ![ram1](imgs/ram1.png)
 ![ram2](imgs/ram2.png)
@@ -31,11 +32,16 @@ Aqui estão imagens e descrições dos 17 circuitos, dentro da pasta "docs" se e
 ![ula1](imgs/ula_1.png)
 ![ula2](imgs/ula_2.png)
 ## SHIFT de 2 bits, esquerda e direita
-![sll]()
+![sll](imgs/shift.png)
 ## Extensor de sinal 4-8
+![extensor](imgs/extensor.png)
 ## Máquina de estados
+![maquina](imgs/maquina_estados.png)
 ## Contador Síncrono
+![contador](imgs/contador.png)
 ## Detector de paridade ímpar
+![detector impar](imgs/paridade_impar.png)
 ## Otimização Lógica 
+![otimizacao](imgs/otimizacao_logica.png)
 ## Decodificador 7-segmentos para hexadecimal
-![]()
+![decodificador](imgs/hexa.png)
