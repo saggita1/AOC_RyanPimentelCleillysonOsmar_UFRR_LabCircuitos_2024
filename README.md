@@ -16,7 +16,7 @@ Aqui estão as imagens dos 17 circuitos, dentro da pasta "docs" se encontra as s
 ## Somador de 8 bits + 4
 ![somadormais4](imgs/somador_mais_4.png)
 ## Memória ROM de 8 bits.
-![]()
+![rom](imgs/rom_memoria.png)
 ## Memória RAM de 8 bits.
 ![ram1](imgs/ram1.png)
 ![ram2](imgs/ram2.png)
